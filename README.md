@@ -16,6 +16,9 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
 
 2. **Day 02**: [Hashtag Generator](day02-#-tag-generator.js)  
    Placeholder for a hashtag generator implementation.
+3. **Day 03**: Count Occerrences of charachters:
+   - Using `for` loop
+   - using `reduce` method
 
 ## How to Run the Code
 

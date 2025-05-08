@@ -11,14 +11,7 @@ const generateHashtag = (str) => {
     let hashtag = '#' + string;
     return hashtag;
 }
-console.log(generateHashtag('Rashtriya ekta jindabaad'));
-
-function hash(str){
-    let stringg = str.split().map((words)=>charAt(0).toUpperCase()).join('');
-    let ht = "#"+ stringg;
-    return ht;
-}
-console.log(hash('me the rahul'));
+console.log(generateHashtag('Rashtriya ekta jindabaad')); // #RashtriyaEktaJindabaad
 
 
 
