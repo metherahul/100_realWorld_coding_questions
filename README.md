@@ -16,10 +16,10 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
 
 2. **Day 02**: [Hashtag Generator](day02-#-tag-generator.js)  
    Placeholder for a hashtag generator implementation.
-3. **Day 03**: Count Occerrences of charachters:
+3. **Day 03**: [Count Occerrences of charachters](day03-count-Occurences-ofCharater):
    - Using `for` loop
    - using `reduce` method
-4. **Day 04**: Identify triangle type.
+4. **Day 04**: [Identify triangle type](day04-Identify-triangle-type).
    - Using `If else` method
    - Using `ES6 class Object`
    - Using `Switch` statement
