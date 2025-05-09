@@ -19,6 +19,10 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
 3. **Day 03**: Count Occerrences of charachters:
    - Using `for` loop
    - using `reduce` method
+4. **Day 04**: Identify triangle type.
+   - Using `If else` method
+   - Using `ES6 class Object`
+   - Using `Switch` statement
 
 ## How to Run the Code
 
