@@ -23,6 +23,10 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
    - Using `If else` method
    - Using `ES6 class Object`
    - Using `Switch` statement
+5. **Day 05** [Sorting Numbers](day05-arrange-number-ascending)
+   - Using `for loop` trying not to change the original array.
+   - Using `for loop` original array changes.
+   - Using `sort method` 
 
 ## How to Run the Code
 
