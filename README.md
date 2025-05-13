@@ -26,7 +26,12 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
 5. **Day 05** [Sorting Numbers](day05-arrange-number-ascending)
    - Using `for loop` trying not to change the original array.
    - Using `for loop` original array changes.
-   - Using `sort method` 
+   - Using `sort method`
+6. **Day** [Checking Palindrome](day06-Palindrome-identification)
+   - Using `String Reverse` Technique
+   - Using `for loop` method
+   - Using Array.every()
+   - Using `Recursion`
 
 ## How to Run the Code
 
