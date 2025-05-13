@@ -30,7 +30,7 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
 6. **Day** [Checking Palindrome](day06-Palindrome-identification)
    - Using `String Reverse` Technique
    - Using `for loop` method
-   - Using Array.every()
+   - Using `Array.every()`
    - Using `Recursion`
 
 ## How to Run the Code
