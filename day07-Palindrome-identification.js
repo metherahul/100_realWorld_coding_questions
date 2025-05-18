@@ -45,7 +45,6 @@ const Palindrome = (str) => {
       if (s[left] !== s[right]) return false;
       return check(s, left + 1, right - 1);
     };
-  
     return check(str, 0, str.length - 1);
   };
   console.log(Palindrome("A man, a plan, a canal: Panama"));//true

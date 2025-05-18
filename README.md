@@ -27,11 +27,20 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
    - Using `for loop` trying not to change the original array.
    - Using `for loop` original array changes.
    - Using `sort method`
-6. **Day** [Checking Palindrome](day06-Palindrome-identification)
+6. **Day 06** [Recursion](day06-recursion)
+   - factorial
+   - fibonacci series
+   - sum of array elements
+   - reverse a string
+   - countdown function
+   - power of a number
+   - check palindrome (recursive)
+7. **Day 07** [Checking Palindrome](day07-Palindrome-identification)
    - Using `String Reverse` Technique
    - Using `for loop` method
    - Using `Array.every()`
    - Using `Recursion`
+
 
 ## How to Run the Code
 
