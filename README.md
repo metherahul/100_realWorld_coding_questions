@@ -40,6 +40,10 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
    - Using `for loop` method
    - Using `Array.every()`
    - Using `Recursion`
+8. **Day 08** [Find Max](day08-findMax)
+   - using `for loop`
+   - using `Math.max()`
+   - using `reduce` method
 
 
 ## How to Run the Code
