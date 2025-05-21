@@ -37,7 +37,7 @@ const memo = {};
 const findFactorial3=(num)=>{
     if(num===0||num===1)return 1;
     if(memo[num])return memo[num];
-    memo[num]=num*findFactorial(num-1);
+    memo[num]=num*findFactorial3(num-1);
     return memo[num];
 }
-console.log(findFactorial3(5));
+console.log(findFactorial3(5));//120
