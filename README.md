@@ -44,6 +44,11 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
    - using `for loop`
    - using `Math.max()`
    - using `reduce` method
+9. **Day 9** [Factorial](day09-factorial.js)
+   - using `recursion`
+   - using `reduce` method
+   - using `for loop` 
+   - using `memoization` or `chaching`   
 
 
 ## How to Run the Code
