@@ -8,26 +8,26 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
 
 ### Completed Challenges
 
-1. **Day 01**: [Find the Longest Word in a String](day01_longest-word.js)  
+01. **Day 01**: [Find the Longest Word in a String](day01_longest-word.js)  
    Implemented three methods to find the longest word in a given string using:
    - A `for` loop
    - The `sort` method
    - The `reduce` method
 
-2. **Day 02**: [Hashtag Generator](day02-#-tag-generator.js)  
+02. **Day 02**: [Hashtag Generator](day02-#-tag-generator.js)  
    Placeholder for a hashtag generator implementation.
-3. **Day 03**: [Count Occerrences of charachters](day03-count-Occurences-ofCharater):
+03. **Day 03**: [Count Occerrences of charachters](day03-count-Occurences-ofCharater):
    - Using `for` loop
    - using `reduce` method
-4. **Day 04**: [Identify triangle type](day04-Identify-triangle-type).
+04. **Day 04**: [Identify triangle type](day04-Identify-triangle-type).
    - Using `If else` method
    - Using `ES6 class Object`
    - Using `Switch` statement
-5. **Day 05** [Sorting Numbers](day05-arrange-number-ascending)
+05. **Day 05** [Sorting Numbers](day05-arrange-number-ascending)
    - Using `for loop` trying not to change the original array.
    - Using `for loop` original array changes.
    - Using `sort method`
-6. **Day 06** [Recursion](day06-recursion)
+06. **Day 06** [Recursion](day06-recursion)
    - factorial
    - fibonacci series
    - sum of array elements
@@ -35,16 +35,16 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
    - countdown function
    - power of a number
    - check palindrome (recursive)
-7. **Day 07** [Checking Palindrome](day07-Palindrome-identification)
+07. **Day 07** [Checking Palindrome](day07-Palindrome-identification)
    - Using `String Reverse` Technique
    - Using `for loop` method
    - Using `Array.every()`
    - Using `Recursion`
-8. **Day 08** [Find Max](day08-findMax)
+08. **Day 08** [Find Max](day08-findMax)
    - using `for loop`
    - using `Math.max()`
    - using `reduce` method
-9. **Day 9** [Factorial](day09-factorial.js)
+09. **Day 9** [Factorial](day09-factorial.js)
    - using `recursion`
    - using `reduce` method
    - using `for loop` 
