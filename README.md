@@ -49,6 +49,13 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
    - using `reduce` method
    - using `for loop` 
    - using `memoization` or `chaching`   
+10. **Day 10** [Average of an array](day10-calculateAverage.js)
+   - using `for loop` method
+   - using `reduce` method
+   - using `eval` only for practice but bit risky in real world project.
+   - using `forEach` method
+   - using `recursion` method
+   - using `recursion` with `.at()`
 
 
 ## How to Run the Code
