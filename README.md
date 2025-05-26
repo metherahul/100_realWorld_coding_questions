@@ -56,6 +56,12 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
       - using `forEach` method
       - using `recursion` method
       - using `recursion` with `.at()`
+11. **Day 11** [Array Comparision](day11-arraysComparision)
+      - using `for loop` 
+      - using `Array.every()`
+      - using `JSON.stringify()`
+      - using `set()`
+
 
 
 ## How to Run the Code
