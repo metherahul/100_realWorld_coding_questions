@@ -61,6 +61,13 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
       - using `Array.every()`
       - using `JSON.stringify()`
       - using `set()`
+12. **Day 12** [Sum of digits of given numbers](day12-calculateSumOfDigit)
+      - using `.map()` `.reduce()`
+      - using `Array.from()` `.reduce()`
+      - using `spread operator`
+      - using `for of`
+      - using `while loop`
+      - using `recursion`
 
 
 
