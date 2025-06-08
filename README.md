@@ -68,6 +68,16 @@ Each day has its own file, named in the format `dayXX_<description>.js`, where `
       - using `for of`
       - using `while loop`
       - using `recursion`
+13. **Day 13**[`Removing Duplicate`](day13-RemoveDuplicateFromArray)
+      - using `Array.from()` with `new Set()`
+      - using `for loop` with `nested for`
+      - using `for loop` with `includes()`
+      - using `filter()` with `ndexOf()`
+      - using `reduce()` with `includes()`
+      - using `reduce()` with` indexOf()`
+      - using `regular Object`
+      - using `Map Object`
+      - using `Sort()`
 
 
 
